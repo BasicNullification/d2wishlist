@@ -3,11 +3,7 @@ description:Wishlist rolls from xBeAsTx#7023 for those items that don't currentl
 
 //VOLTA BRACKET
 //notes:xBeAsTx [PvP] (MW:Handling) Sad that there is no snapshot here as aggressive frames really need all the help it can get with their inherently low handling. But if you don't mind crouching, I suppose there's Firmly Planted.
-dimwishlist:item=3920310144&perks=1840239774,3177308360,3619207468,47981717
-dimwishlist:item=3920310144&perks=3619207468,1645158859
-dimwishlist:item=3920310144&perks=280464955,47981717
-dimwishlist:item=3920310144&perks=280464955,1645158859
-
+dimwishlist:item=3920310144&perks=1840239774,3177308360,3619207468,47981717,3619207468,1645158859,280464955,47981717,280464955,1645158859
 
 //TARGETED REDACTION
 //notes:xBeAsTx [PvP] (MW:Range) Let shot-swap help with the low handling stat, and then allow harmony to do the rest.
