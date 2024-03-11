@@ -1,6 +1,15 @@
 title:xBeAsTx's Wishlist
 description:Wishlist rolls from xBeAsTx#7023 for those items that don't currently exist in the main wishlist rolls yet (usually due to them being new releases) or for when those wishlists don't align with my preferences although rare.
 
+//INCISOR (ADEPT)
+//note:xBeAsTx [PvP]
+dimwishlist:item=2421180981&perks=3250034553,2969185026,1359896290,365154968,2988596335
+dimwishlist:item=2421180981&perks=4090651448,2969185026,1359896290,365154968,2988596335
+dimwishlist:item=2421180981&perks=3250034553,2969185026,2387244414,365154968,2988596335
+dimwishlist:item=2421180981&perks=3250034553,2969185026,2387244414,365154968,2988596335
+dimwishlist:item=2421180981&perks=3250034553,2969185026,1359896290,1890422124,2988596335
+
+
 //KRAIT
 //notes:xBeAsTx [PvE] I feel like the Subsistence + Adagio combo is highly overlooked. When each bullet is hitting harder and firing slower, you'll be activating Subsistence far more often with far less reloads. Then you can even match with Armor-Piercing rounds to allow the extra bullet damage to shred the enemies behind the one you're shooting at, further increasing the effectiveness of this combo.
 dimwishlist:item=2852052802&perks=1467527085,1968497646,1820235745,3673922083
