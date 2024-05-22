@@ -1,8 +1,12 @@
 title:xBeAsTx's Wishlist
 description:Wishlist rolls from xBeAsTx#7023 for those items that don't currently exist in the main wishlist rolls yet (usually due to them being new releases) or for when those wishlists don't align with my preferences although rare.
 
+//TECHEUN FORCE
+//notes:xBeAsTx [PvP] What's there more to say? Slideways and Kickstart are the perfect pairing to the equation. Slap on Arrowhead and counterbalance you now have a perfect 100 recoil along with almost 60 handling. Fusions are a balance of range and stability, and fortunately we can utilize Projection Fusion battery for the range since Slideways is taking care of the stability for you, which you're already sliding for that Kickstart to proc so.. again, what's there more to say?
+dimwishlist:item=3591141932&perks=839105230,2969185026,2396422520,834262328
+
 //INCISOR (ADEPT)
-//note:xBeAsTx [PvP]
+//notes:xBeAsTx [PvP]
 dimwishlist:item=2421180981&perks=3250034553,2969185026,1359896290,365154968,2988596335
 dimwishlist:item=2421180981&perks=4090651448,2969185026,1359896290,365154968,2988596335
 dimwishlist:item=2421180981&perks=3250034553,2969185026,2387244414,365154968,2988596335
