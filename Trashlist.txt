@@ -5,4 +5,4 @@ description:Trashlist items, perks, and rolls from xBeAsTx#7023. Expect unpopula
 dimwishlist:perks=-2272927194
 
 //notes:test only
-dimwishlist:item=-69420&perks=1631667848#Just testing this out
+dimwishlist:item=-69420&perks=1631667848#Notes:Just testing this out
