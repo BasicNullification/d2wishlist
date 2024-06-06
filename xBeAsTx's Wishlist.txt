@@ -1,5 +1,10 @@
 title:xBeAsTx's Wishlist
 description:Wishlist rolls from xBeAsTx#7023 for those items that don't currently exist in the main wishlist rolls yet (usually due to them being new releases) or for when those wishlists don't align with my preferences although rare.
+// https://raw.githubusercontent.com/BasicNullification/d2wishlist/main/xBeAsTx%27s%20Wishlist.txt
+
+
+//THE CALL
+
 
 //TECHEUN FORCE
 //notes:xBeAsTx [PvP] What's there more to say? Slideways and Kickstart are the perfect pairing to the equation. Slap on Arrowhead and counterbalance you now have a perfect 100 recoil along with almost 60 handling. Fusions are a balance of range and stability, and fortunately we can utilize Projection Fusion battery for the range since Slideways is taking care of the stability for you, which you're already sliding for that Kickstart to proc so.. again, what's there more to say?

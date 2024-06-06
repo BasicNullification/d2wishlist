@@ -1,8 +1,9 @@
 title:xBeAsTx's Trashlist
 description:Trashlist items, perks, and rolls from xBeAsTx#7023. Expect unpopular opinions that are likely geared more towards my playstyle. Let's just say this was mostly intended as a personal list, so use at your own discretion.
+// https://raw.githubusercontent.com/BasicNullification/d2wishlist/main/Trashlist.txt
 
 //notes:testing
 dimwishlist:perks=-2272927194
 
 //notes:test only
-dimwishlist:item=-69420&perks=1631667848#Notes:Just testing this out
+dimwishlist:item=-69420&perks=1631667848#notes:Just testing this out
