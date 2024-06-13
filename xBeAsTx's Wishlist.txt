@@ -5,11 +5,28 @@ description:Wishlist rolls from xBeAsTx#7023 for those items that don't currentl
 // https://48klocs.github.io/wish-list-magic-wand/fingerwave.html
 // https://data.destinysets.com/
 
-// Unwavering Duty (Adept) (god-pve,pve)
-//notes:xBeAsTx [Adept Mag] tags:god-pve,pve
-dimwishlist:item=3444632029&perks=4090651448,1087426260,1820235745,557221067
-dimwishlist:item=3444632029&perks=1087426260,1820235745,557221067#notes:#PvE
-dimwishlist:item=3444632029&perks=1820235745,557221067#notes:#PvE
+// Unwavering Duty (Adept)
+dimwishlist:item=3444632029&perks=4090651448,106909392,1820235745,557221067#notes:|tags:god-pve,pve,add-clear
+dimwishlist:item=3444632029&perks=1482024992,106909392,1820235745,557221067#notes:|tags:god-pve,pve,add-clear
+dimwishlist:item=3444632029&perks=3250034553,106909392,1820235745,557221067#notes:|tags:god-pve,pve,add-clear
+dimwishlist:item=3444632029&perks=4090651448,106909392,3300816228,557221067#notes:|tags:god-pve,pve,add-clear
+dimwishlist:item=3444632029&perks=1482024992,106909392,3300816228,557221067#notes:|tags:god-pve,pve,add-clear
+dimwishlist:item=3444632029&perks=3250034553,106909392,3300816228,557221067#notes:|tags:god-pve,pve,add-clear
+
+// Unwavering Duty (Adept)
+dimwishlist:item=3444632029&perks=-69420,106909392,1820235745,557221067#notes:|tags:god-pve,pve,add-clear
+dimwishlist:item=3444632029&perks=-69420,106909392,3300816228,557221067#notes:|tags:god-pve,pve,add-clear
+
+// Unwavering Duty (Adept)
+dimwishlist:item=3444632029&perks=-69420,-69420,1820235745,557221067#notes:|tags:god-pve,pve,add-clear
+dimwishlist:item=3444632029&perks=-69420,-69420,3300816228,557221067#notes:|tags:god-pve,pve,add-clear
+
+
+
+
+
+
+
 
 //TECHEUN FORCE
 //notes:xBeAsTx [PvP] What's there more to say? Slideways and Kickstart are the perfect pairing to the equation. Slap on Arrowhead and counterbalance you now have a perfect 100 recoil along with almost 60 handling. Fusions are a balance of range and stability, and fortunately we can utilize Projection Fusion battery for the range since Slideways is taking care of the stability for you, which you're already sliding for that Kickstart to proc so.. again, what's there more to say?
