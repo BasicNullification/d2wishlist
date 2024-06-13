@@ -1,10 +1,13 @@
 title:xBeAsTx's Wishlist
 description:Wishlist rolls from xBeAsTx#7023 for those items that don't currently exist in the main wishlist rolls yet (usually due to them being new releases) or for when those wishlists don't align with my preferences although rare.
 // https://raw.githubusercontent.com/BasicNullification/d2wishlist/main/xBeAsTx%27s%20Wishlist.txt
+// https://wishlists.littlelight.club/
+// https://48klocs.github.io/wish-list-magic-wand/fingerwave.html
+// https://data.destinysets.com/
 
-
-//THE CALL
-
+// Unwavering Duty (Adept) (god-pve,pve)
+//notes: tags:god-pve,pve
+dimwishlist:item=3444632029&perks=4090651448,1087426260,1820235745,557221067#notes:#PvE #GodPvE
 
 //TECHEUN FORCE
 //notes:xBeAsTx [PvP] What's there more to say? Slideways and Kickstart are the perfect pairing to the equation. Slap on Arrowhead and counterbalance you now have a perfect 100 recoil along with almost 60 handling. Fusions are a balance of range and stability, and fortunately we can utilize Projection Fusion battery for the range since Slideways is taking care of the stability for you, which you're already sliding for that Kickstart to proc so.. again, what's there more to say?
@@ -12,11 +15,11 @@ dimwishlist:item=3591141932&perks=839105230,2969185026,2396422520,834262328
 
 //INCISOR (ADEPT)
 //notes:xBeAsTx [PvP]
-dimwishlist:item=2421180981&perks=3250034553,2969185026,1359896290,365154968,2988596335
-dimwishlist:item=2421180981&perks=4090651448,2969185026,1359896290,365154968,2988596335
-dimwishlist:item=2421180981&perks=3250034553,2969185026,2387244414,365154968,2988596335
-dimwishlist:item=2421180981&perks=3250034553,2969185026,2387244414,365154968,2988596335
-dimwishlist:item=2421180981&perks=3250034553,2969185026,1359896290,1890422124,2988596335
+dimwishlist:item=2421180981&perks=3250034553,2969185026,1359896290,365154968
+dimwishlist:item=2421180981&perks=4090651448,2969185026,1359896290,365154968
+dimwishlist:item=2421180981&perks=3250034553,2969185026,2387244414,365154968
+dimwishlist:item=2421180981&perks=3250034553,2969185026,2387244414,365154968
+dimwishlist:item=2421180981&perks=3250034553,2969185026,1359896290,1890422124
 
 
 //KRAIT
