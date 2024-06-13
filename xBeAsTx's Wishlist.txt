@@ -5,8 +5,9 @@ description:Wishlist rolls from xBeAsTx#7023 for those items that don't currentl
 // https://48klocs.github.io/wish-list-magic-wand/fingerwave.html
 // https://data.destinysets.com/
 
-// Testing Perk 3+4 if full listed before
-//notes:testing
+
+// Testing
+//notes:xBeAsTx (??? test ???): testing only|tags:test
 dimwishlist:item=2708806099&perks=202670084,3230963543,3523296417,4293542123
 dimwishlist:item=2708806099&perks=3230963543,3523296417,4293542123
 dimwishlist:item=2708806099&perks=3523296417,4293542123
