@@ -6,8 +6,8 @@ description:Wishlist rolls from xBeAsTx#7023 for those items that don't currentl
 // https://data.destinysets.com/
 
 // Unwavering Duty (Adept) (god-pve,pve)
-//notes: tags:god-pve,pve
-dimwishlist:item=3444632029&perks=4090651448,1087426260,1820235745,557221067#notes:#PvE #GodPvE
+//notes:xBeAsTx [Adept Mag] tags:god-pve,pve
+dimwishlist:item=3444632029&perks=4090651448,1087426260,1820235745,557221067
 dimwishlist:item=3444632029&perks=1087426260,1820235745,557221067#notes:#PvE
 dimwishlist:item=3444632029&perks=1820235745,557221067#notes:#PvE
 
