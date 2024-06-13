@@ -5,6 +5,13 @@ description:Wishlist rolls from xBeAsTx#7023 for those items that don't currentl
 // https://48klocs.github.io/wish-list-magic-wand/fingerwave.html
 // https://data.destinysets.com/
 
+// Testing Perk 3+4 if full listed before
+//notes:testing
+dimwishlist:item=2708806099&perks=202670084,3230963543,3523296417,4293542123
+dimwishlist:item=2708806099&perks=3230963543,3523296417,4293542123
+dimwishlist:item=2708806099&perks=3523296417,4293542123
+
+
 // Unwavering Duty (Adept)
 //notes:xBeAsTx (PvE): God Roll PvE for add-clear. Once you proc killing tally x3 adds just melt away while constantly reloading ammo.|tags:pve
 dimwishlist:item=3444632029&perks=4090651448,1087426260,1820235745,557221067
