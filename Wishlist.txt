@@ -5,6 +5,20 @@ description:Wishlist rolls from xBeAsTx#7023 for those items that don't currentl
 // https://data.destinysets.com/
 
 
+// CRIMIL'S DAGGER
+//notes:xBeAsTx (PvP): The PvP Godroll.|tags:pvp
+dimwishlist:item=198854575&perks=1482024992,3142289711,588594999,47981717
+dimwishlist:item=198854575&perks=3250034553,3142289711,588594999,47981717
+dimwishlist:item=198854575&perks=1482024992,3142289711,588594999,3038247973
+dimwishlist:item=198854575&perks=3250034553,3142289711,588594999,3038247973
+//notes:xBeAsTx (PvP): The PvP Godroll. If you can get a range mw, then you can afford to lose a range barrel or mag. Don't forget your first shot will be at 100 range due to Opening Shot|tags:pvp
+dimwishlist:item=198854575&perks=1482024992,588594999,47981717,2697220197
+dimwishlist:item=198854575&perks=3250034553,588594999,47981717,2697220197
+dimwishlist:item=198854575&perks=1482024992,588594999,3038247973,2697220197
+dimwishlist:item=198854575&perks=3250034553,588594999,3038247973,2697220197
+dimwishlist:item=198854575&perks=3142289711,588594999,47981717,2697220197
+dimwishlist:item=198854575&perks=3142289711,588594999,3038247973,2697220197
+
 
 // Scintillation (Adept)
 //notes:xBeAsTx (PvE / DPS / Godroll): Boss DPS Godroll|tags:pve,dps,godroll
