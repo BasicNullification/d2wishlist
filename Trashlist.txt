@@ -1,0 +1,10 @@
+title:xBeAsTx's Trashlist
+description:Trashlist items, perks, and rolls from xBeAsTx#7023. Expect unpopular opinions that are likely geared more towards my playstyle. Let's just say this was mostly intended as a personal list, so use at your own discretion.
+// https://raw.githubusercontent.com/BasicNullification/d2wishlist/main/Trashlist.txt
+
+
+// Blast Furnace
+dimwishlist:item=-2372514508&perks=3700496672
+dimwishlist:item=-2372514508&perks=2387244414,3425386926
+
+
